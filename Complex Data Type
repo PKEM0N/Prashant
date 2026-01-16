@@ -1,0 +1,18 @@
+#Complex Data type
+a=2+3j
+print(type(a))
+
+
+#Boolen Data type 
+b = True
+print(type(b))
+
+
+#set Data type
+c={'d','s','f'}
+print(type(c))
+
+
+#Dictionary Data type
+d={"key":"value"}
+print(type(d))
