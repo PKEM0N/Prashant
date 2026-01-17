@@ -1,0 +1,6 @@
+#Arithemetic Operators
+#Addition
+x=10
+y=20
+z=x+y,x-y,x*y,x/y,x%y,x++y,x--y
+print(z)
