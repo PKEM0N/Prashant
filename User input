@@ -1,0 +1,3 @@
+#Taking input from user
+a=input("Enter value for a")
+print(type(a))
