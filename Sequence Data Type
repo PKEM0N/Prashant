@@ -1,0 +1,20 @@
+#Sequence Data type
+
+#Tuple Data type
+a=(1,2,3,4,5)
+print(type(a))
+
+
+#List Data type
+b=[1,2,3,4,5]
+print(type(b))
+
+
+#Set Data type
+c={1,2,3,4,5}
+print(type(c))
+
+
+#String Data type
+d=("love u man")
+print(type(d))
