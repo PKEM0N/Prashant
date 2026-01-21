@@ -1,0 +1,10 @@
+#Nasted_IF
+a=str(input("Enter MALE or FEMALE:"))
+if(a=="MALE" and "FEMALE"):
+    age=int(input("Enter age:"))
+    if(age>=25):
+        print("He can play Football")
+    else:
+         print("Can't play Foortball")
+else:
+    ("Gender not matched")
