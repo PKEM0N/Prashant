@@ -1,0 +1,12 @@
+#IF_ELSE_LADDER
+p=int(input("Enter the Percentage"))
+if(p>=70):
+    print("Dist")
+elif(p >=65 and p<=70):
+    print("1st cls")
+elif(p>=60 and p<=65):
+    print("2nd cls")
+elif(p >=55 and p<=60):
+    print("3st cls")
+else:
+    print("fail")
