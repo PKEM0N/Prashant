@@ -1,0 +1,14 @@
+#Operator precedence 
+a=10
+b=39
+c=38
+d=27
+
+x=(a+b)*c/d    #(10*39)*38/5
+print("value of x:",x)
+
+y=((a+b)*c)/d   #((10+39)*38)/27
+print("Value of y:",y)
+
+z=a+(b*c)/d   #20+(150/5)
+print("value of z:",z)
