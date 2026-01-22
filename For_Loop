@@ -1,0 +1,4 @@
+# Simple For Loop
+word=["ram","hari","chhor","shyam"]
+for i in word:
+    print(i,":",len(i))
