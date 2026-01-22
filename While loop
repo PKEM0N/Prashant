@@ -1,0 +1,9 @@
+#While Loop
+#5,9,12,14,15
+sum=0
+n=int(input("N:"))
+while n>0:
+    sum = sum+n
+    print("sum:",sum)
+    n-=1
+print("Bye")
