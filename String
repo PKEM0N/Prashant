@@ -1,0 +1,11 @@
+# Single Quote String
+print ('HELLO WORLD')
+
+#Double Quote String
+print("Hello World")
+
+#Multiline String
+print("""Ram is boy.   
+Sita is girl.
+Hari,Shyam,Mohan is crying.
+""")
