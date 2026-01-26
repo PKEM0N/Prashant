@@ -1,0 +1,6 @@
+# Break Statement 
+for i in "Python":
+    if i =="o":
+        break   #Here im using breaking statement
+    print("Current letter:",i)
+print("bye")
