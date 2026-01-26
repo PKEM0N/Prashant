@@ -1,0 +1,6 @@
+# Continue Statement 
+for i in "Python":
+    if i =="o":
+        continue   #Here im using escape statement
+    print("Current letter:",i)
+print("bye")
