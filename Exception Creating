@@ -1,0 +1,9 @@
+try:  # The code which is written try block can be occur at run time
+    a=int(input('Enter a nuber'))
+    b=int(input('enter a number'))
+    c=a/b
+    print(c)
+except Exception as e : #This block will run when exception occur
+    print('exception caught',e)
+
+print('bye')
